@@ -1,7 +1,8 @@
 # Power-BI-dashboard-
 credit card fraud transactions details analysis using power BI 
 
-https://miro.medium.com/v2/resize:fit:640/format:webp/1*W5ZfH02P-U6woWV5C4eTAA.jpeg
+this is my meduim article . you can read full article using this link
+(https://medium.com/@pwmrangana/a-guide-to-designing-graphically-rich-dashboard-using-powerbi-b31e20a93ae3)
 
 I’d be happy to provide a step-by-step guide to creating a Power BI dashboard. Power BI is a powerful business intelligence tool developed by Microsoft that allows users to visualize and analyze data from various sources. Here’s a clear step-by-step process to get you started:
 
